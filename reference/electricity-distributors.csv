@@ -1,0 +1,17 @@
+state, distributor (electricity), source
+VIC, Citipower, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+VIC, Jemena, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+VIC, Powercor Australia, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+VIC, SP AusNet, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+VIC, United Energy Distribution, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+NSW, Endeavour Energy, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+NSW, Essential Energy, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+NSW, Ausgrid, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+ACT, ActewAGL, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+NT, Power and Water, http://www.switchwise.com.au/electricity/distributors/nt/
+QLD, Energex, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+QLD, Ergon Energy, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+TAS, Aurora Energy, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+SA, SA Power Networks, http://www.aer.gov.au/consumers/making-a-complaint/who-is-my-distributor
+WA, Western Power, http://www.finance.wa.gov.au/cms/Public_Utilities_Office/Energy_in_Western_Australia/Electricity/Networks.aspx
+WA, Horizon Power, http://www.finance.wa.gov.au/cms/Public_Utilities_Office/Energy_in_Western_Australia/Electricity/Networks.aspx
