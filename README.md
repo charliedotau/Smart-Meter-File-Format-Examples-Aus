@@ -18,4 +18,4 @@ A simpler solution is to work with what we've got and build a tool which can tak
 The goal of this repo is to collate as many examples as possible of the different file formats used by Australian electricity utilities and distributors for supplying customers with their smart meter data.  Nothing more, nothing less.
 
 ## How you can help 
-If you live in Australia, have a smart meter and your utility or distributor can supply you with an electronic copy of the data, please help by uploading an example of the file.  More detail on how to do that here.
+If you live in Australia, have a smart meter and your utility or distributor can supply you with an electronic copy of the data, please help by uploading an example of the file.  More detail on how to do that in the examples folder.
