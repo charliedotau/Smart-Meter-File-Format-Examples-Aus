@@ -1,4 +1,4 @@
-
+# Smart meter file format examples Australia
 In many (all?) states of Australia, individuals, whose homes are equipped with smart meters, can download a copy of their historical electricity consumption data.
 
 This data is typically provided by either the electricity distributor and/or the electricity retailer, via the web.
