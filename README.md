@@ -6,8 +6,9 @@ This data is typically provided by either the electricity distributor and/or the
 This data is very useful. For example as I've previously written about, [smart meter data is most helpful if you're considering buying solar panels](http://what.agreenidea.org/post/96779193636/9-tips-on-going-solar-australia).
 
 ## The problem
-The problem is there is no common format in which the electricity companies supply this data. Nationally, once all states have smart meters, its conceivable that this data is published in dozens of different formats.
-This makes it harder for developers than it ought to be, to build apps on top of this data. Apps like the Victoria Government's [My Power Planner](https://mpp.switchon.vic.gov.au/) or [Empower.me](http://empowerme.org.au/visualise.html).
+The problem is there is no common format in which the electricity companies supply this data to their customers. In Victoria, where the residential smart meter rollout is complete, there are [six different file formats in use](http://switchon.vic.gov.au/get-the-best-deal/compare-offers-with-my-power-planner/how-to-download-an-electricity-usage-file-from-your-provider).  Nationally, once all states have smart meters, its conceivable that this data is published in some 20-odd different formats.
+
+This lack of standardisation makes it harder for developers than it ought to be, to build apps on top of this data. Apps like the Victoria Government's [My Power Planner](https://mpp.switchon.vic.gov.au/) or [Empower.me](http://empowerme.org.au/visualise.html).
 
 ## The solution
 One solution is to solve this problem at the source, much like [the Green Button Initiative in the United States](http://what.agreenidea.org/post/28757165630/smartmetersopendata).
