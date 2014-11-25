@@ -24,5 +24,5 @@ My hope is that if successful in this goal, this project will be a good stepping
 If you live in Australia, have a smart meter and your utility or distributor can supply you with an electronic copy of the data, please help by uploading an example of the file.  More detail on how to do that in the `examples` folder.
 
 ## Not on GitHub?
-If you're not on GitHub and/or you're not familiar with Git.  Don't worry. You can email me the file directly, and I'll upload it for me.  Email address is interwebscharlie at yahoo dot com dot au.
+If you're not on GitHub and/or you're not familiar with Git.  Don't worry. You can email me the file directly, and I'll upload it for me.  Email address is interwebscharlie at yahoo dot com dot au.  Before you email me the file though, be sure to follow the instructions about the file name and privacy [here](https://github.com/charliedotau/Smart-Meter-File-Format-Examples-Aus/blob/master/examples/README.md).
 
